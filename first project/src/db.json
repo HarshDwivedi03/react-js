@@ -1,5 +1,18 @@
 {
-"student":[
-    
-]
+  "student": [
+    {
+      "id": "2e29",
+      "name": "harsh",
+      "email": "hdwivedi791@gmail.com",
+      "phone": "98272625262",
+      "message": "hello"
+    },
+    {
+      "id": "b5ea",
+      "name": "Ansh",
+      "email": "anshrock100@gmail.com",
+      "phone": "98272625262",
+      "message": "ansh"
+    }
+  ]
 }
